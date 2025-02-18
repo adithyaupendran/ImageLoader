@@ -15,7 +15,7 @@ def show_emotion():
 
     if emotion in emotion_image:
         image_window = tk.Toplevel(root)
-        image_window.title(f"You are felling{emotion.capitalize()}")
+        image_window.title(f"You are feeling {emotion.capitalize()}")
 
         img_path =emotion_image[emotion]
 
