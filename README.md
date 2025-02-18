@@ -70,5 +70,5 @@ emotion_images = {
 Feel free to fork the project and submit pull requests!
 
 ## 📧 Contact
-For any questions or suggestions, reach out at [your-email@example.com](mailto:adi.upendran888@gmail.com).
+For any questions or suggestions, reach out at [mailto:adi.upendran888@gmail.com]
 
