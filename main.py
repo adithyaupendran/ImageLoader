@@ -4,10 +4,11 @@ from PIL import  Image, ImageTk
 
 emotion_image={
     "happy": r"D:\Code\EmotionDetector\images\happy.jpeg",
-
     "angry": r"D:\Code\EmotionDetector\images/angry.jpeg",
     "sad": r"D:\Code\EmotionDetector\images/sad.jpeg",
-    "scary":r"D:\Code\EmotionDetector\images/scary.jpeg",
+    "scared":r"D:\Code\EmotionDetector\images/scared.jpeg",
+    "bored":r"D:\Code\EmotionDetector\images/bored.jpeg",
+    "disgusted":r"D:\Code\EmotionDetector\images/disgust.jpeg"
 }
 
 def show_emotion():
